@@ -1,6 +1,6 @@
 # Guia: Freelance e Plataformas para Devs
 
-> Material de apoio para profissionais de tecnologia no Brasil que querem **complementar renda**, **fazer transição de carreira** ou **virar autônomo full-time**.
+> Para profissionais de tecnologia no Brasil que querem **complementar renda**, **fazer transição de carreira** ou **virar autônomo full-time**.
 
 Este guia trata freelance como caminho profissional sério — não como bico. Cobre plataformas brasileiras e internacionais, precificação, tributação, captação direta, gestão de cliente e armadilhas reais.
 

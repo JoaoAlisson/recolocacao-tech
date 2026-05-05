@@ -1,6 +1,6 @@
 # Guia Operacional: Como Gerenciar Sua Busca de Emprego como um Projeto
 
-> Material de apoio para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
+> Para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
 
 Este guia é **operacional**: setup de ferramentas passo a passo, templates de log, organização de pastas e rotinas. A parte estratégica (funil, métricas, canais) está no `guia-busca-ativa.md`. Os dois se complementam — um é o **mapa**, este é o **GPS**.
 

@@ -1,22 +1,23 @@
-# Visão Geral — Material do Aluno
+# Visão Geral
 
-Bem-vindo. Este é o material completo do **minicurso de recolocação tech** — um pacote de guias densos e acionáveis para profissionais de tecnologia no Brasil que estão em recolocação ou transição de carreira.
+Bem-vindo. Este é um pacote completo e auto-contido de guias para profissionais de tecnologia no Brasil em **recolocação** ou **transição de carreira**.
 
-> Este material é **companion** das sessões ao vivo do minicurso. Você pode (e deve) estudar fora da aula. Não tem motivacional, não tem clichê — só o que move o ponteiro.
+> Sem motivacional, sem clichê — só o que move o ponteiro. Você pode estudar tudo na ordem sugerida ou ir direto ao guia que ataca o seu maior bloqueio agora.
 
 ## O que tem aqui
 
-São **7 conteúdos** que cobrem os pontos críticos do processo de recolocação:
+São **8 conteúdos** que cobrem os pontos críticos do processo de recolocação:
 
 | # | Material | O que entrega |
 |---|---|---|
-| 1 | **Guia: Currículo** | Como passar pelo ATS (Gupy, Kenoby, Greenhouse), formato dos bullets que vendem, exemplo completo de CV sênior. |
-| 2 | **Guia: LinkedIn** | Como o algoritmo do LinkedIn funciona, SSI, headline com fórmula, "Sobre" estruturado, hack do #OpenToWork. |
-| 3 | **Guia: Busca Ativa** | Mercado oculto de vagas, mapeamento de empresas, scripts de cold approach prontos, gestão de funil. |
-| 4 | **Guia: Entrevistas** | RH (5 perguntas-padrão), técnica (4 formatos), métodos do *Cracking the Coding Interview*, system design. |
-| 5 | **Guia: Gestão do Processo** | Setup passo a passo do Trello/Notion, log diário operacional, organização de pastas, rotinas. |
-| 6 | **Guia: Freelance e Plataformas** | Plataformas BR e internacionais, precificação, MEI/ME/PJ, captação direta, riscos e armadilhas. |
-| 7 | **Mapa de Estudo Júnior/Pleno** | Trilha de fundamentos: Lógica, POO, Design Patterns, Banco de Dados, Clean Code, Git, GitHub. |
+| 1 | **Guia: Mercado de Trabalho 2026** | Salários por senioridade, tecnologias em alta, geografia, mercado internacional, Reforma Tributária e Stock Options. |
+| 2 | **Guia: Currículo** | Como passar pelo ATS (Gupy, Kenoby, Greenhouse), formato dos bullets que vendem, exemplo completo de CV sênior. |
+| 3 | **Guia: LinkedIn** | Como o algoritmo do LinkedIn funciona, SSI, headline com fórmula, "Sobre" estruturado, hack do #OpenToWork. |
+| 4 | **Guia: Busca Ativa** | Mercado oculto de vagas, mapeamento de empresas, scripts de cold approach prontos, gestão de funil. |
+| 5 | **Guia: Entrevistas** | RH (5 perguntas-padrão), técnica (4 formatos), métodos do *Cracking the Coding Interview*, system design. |
+| 6 | **Guia: Gestão do Processo** | Setup passo a passo do Trello/Notion, log diário operacional, organização de pastas, rotinas. |
+| 7 | **Guia: Freelance e Plataformas** | Plataformas BR e internacionais, precificação, MEI/ME/PJ, captação direta, riscos e armadilhas. |
+| 8 | **Mapa de Estudo Júnior/Pleno** | Trilha de fundamentos: Lógica, POO, Design Patterns, Banco de Dados, Clean Code, Git, GitHub. |
 
 ## Trilha sugerida (por onde começar)
 
@@ -25,17 +26,19 @@ A ordem que faz mais sentido para a maioria dos alunos:
 ```
 1. Visão Geral (esta página)
    ↓
-2. Guia: Currículo            ← reescreva o seu antes de candidatar
+2. Guia: Mercado de Trabalho   ← entenda o terreno antes de jogar
    ↓
-3. Guia: LinkedIn             ← otimize sua presença
+3. Guia: Currículo             ← reescreva o seu antes de candidatar
    ↓
-4. Guia: Gestão do Processo   ← monte seu sistema de busca
+4. Guia: LinkedIn              ← otimize sua presença
    ↓
-5. Guia: Busca Ativa          ← comece a executar
+5. Guia: Gestão do Processo    ← monte seu sistema de busca
    ↓
-6. Guia: Entrevistas          ← prepare-se para o que vier
+6. Guia: Busca Ativa           ← comece a executar
    ↓
-7. Mapa de Estudo             ← consolide os fundamentos em paralelo
+7. Guia: Entrevistas           ← prepare-se para o que vier
+   ↓
+8. Mapa de Estudo              ← consolide os fundamentos em paralelo
 ```
 
 A trilha é uma **sugestão** — você pode pular direto para o que mais te trava agora. Se o problema é que você não recebe respostas: comece pelo Currículo. Se recebe respostas mas trava em entrevista: vá direto ao Guia: Entrevistas.

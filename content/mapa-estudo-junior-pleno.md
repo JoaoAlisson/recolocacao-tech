@@ -1,6 +1,6 @@
 # Mapa de Estudo Básico para Vagas Júnior e Pleno
 
-> Material de apoio para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
+> Para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
 
 Este mapa cobre os **fundamentos universais** que aparecem em vagas júnior e pleno **independente da stack** (Java, Python, JavaScript, .NET, etc.). É o **Quadrante 1 (Fundamentos)** do mapa de 4 quadrantes apresentado no Dia 1 do minicurso. Sem isso, você não passa em entrevista técnica — não importa quanto framework você sabe.
 

@@ -1,6 +1,6 @@
 # Guia Completo de Entrevistas Tech: RH, Técnica e os Métodos do Cracking the Coding Interview
 
-> Material de apoio para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
+> Para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
 
 ---
 

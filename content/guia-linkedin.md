@@ -1,6 +1,6 @@
 # Guia Definitivo de LinkedIn para Desenvolvedores
 
-> Material de apoio para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
+> Para profissionais de tecnologia do Brasil em recolocação ou transição de carreira.
 
 ---
 
