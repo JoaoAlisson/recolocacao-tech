@@ -5,7 +5,7 @@ import {
   getContentByCategory,
 } from "@/lib/content";
 
-const categories: ContentCategory[] = ["minicurso", "guia", "mapa"];
+const categories: ContentCategory[] = ["inicio", "guia", "mapa"];
 
 export function Sidebar() {
   return (

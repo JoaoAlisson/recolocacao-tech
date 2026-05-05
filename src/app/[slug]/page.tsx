@@ -4,6 +4,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeHighlight from "rehype-highlight";
 import {
+  categoryLabels,
   getAdjacentContent,
   getAllSlugs,
   getContentBySlug,
@@ -49,11 +50,7 @@ export default async function ContentPage({ params }: PageProps) {
           &larr; Voltar para o indice
         </Link>
         <span className="inline-block text-xs uppercase font-semibold tracking-widest text-accent mb-2">
-          {item.category === "minicurso"
-            ? "Minicurso"
-            : item.category === "guia"
-              ? "Guia"
-              : "Mapa de Estudo"}
+          {categoryLabels[item.category]}
         </span>
         <p className="text-sm text-zinc-500">
           Tempo estimado de leitura: {item.readTimeMin} min
