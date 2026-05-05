@@ -3,7 +3,7 @@ import path from "path";
 
 const contentDir = path.join(process.cwd(), "content");
 
-export type ContentCategory = "minicurso" | "guia" | "mapa";
+export type ContentCategory = "inicio" | "guia" | "mapa";
 
 export type ContentItem = {
   slug: string;
@@ -18,64 +18,46 @@ export type ContentItem = {
 export const contentIndex: ContentItem[] = [
   {
     slug: "visao-geral",
-    title: "Visao Geral do Minicurso",
-    description: "Estrutura dos 3 dias, racional de tempo e como usar o material.",
-    category: "minicurso",
+    title: "Visao Geral",
+    description: "O que tem no material, trilha sugerida e como usar.",
+    category: "inicio",
     order: 0,
     fileName: "README.md",
     readTimeMin: 4,
-  },
-  {
-    slug: "dia-1",
-    title: "Dia 1 - Quem voce e no papel",
-    description: "Analise de curriculo, LinkedIn e mapa de estudo (60 min).",
-    category: "minicurso",
-    order: 1,
-    fileName: "dia-1-roteiro.md",
-    readTimeMin: 10,
-  },
-  {
-    slug: "dia-2",
-    title: "Dia 2 - Como voce ataca o mercado",
-    description: "Mercado, busca ativa, analise de vagas, entrevistas RH+Tecnica (60 min).",
-    category: "minicurso",
-    order: 2,
-    fileName: "dia-2-roteiro.md",
-    readTimeMin: 14,
-  },
-  {
-    slug: "dia-3",
-    title: "Dia 3 - Hands-on: revisao e simulado",
-    description: "Painel aberto de CVs e simulado de entrevistas (90-120 min).",
-    category: "minicurso",
-    order: 3,
-    fileName: "dia-3-pratico.md",
-    readTimeMin: 12,
-  },
-  {
-    slug: "guia-linkedin",
-    title: "Guia: LinkedIn",
-    description: "Algoritmo, SSI, headline, sobre, experiencias e #OpenToWork.",
-    category: "guia",
-    order: 1,
-    fileName: "guia-linkedin.md",
-    readTimeMin: 22,
   },
   {
     slug: "guia-curriculo",
     title: "Guia: Curriculo",
     description: "ATS, regra dos 6 segundos, formula de bullets e exemplo completo.",
     category: "guia",
-    order: 2,
+    order: 1,
     fileName: "guia-curriculo.md",
     readTimeMin: 28,
+  },
+  {
+    slug: "guia-linkedin",
+    title: "Guia: LinkedIn",
+    description: "Algoritmo, SSI, headline, sobre, experiencias e #OpenToWork.",
+    category: "guia",
+    order: 2,
+    fileName: "guia-linkedin.md",
+    readTimeMin: 22,
+  },
+  {
+    slug: "guia-gestao-processo",
+    title: "Guia: Gestao do Processo",
+    description: "Setup Trello/Notion, log diario, organizacao e rotinas.",
+    category: "guia",
+    order: 3,
+    fileName: "guia-gestao-processo.md",
+    readTimeMin: 22,
   },
   {
     slug: "guia-busca-ativa",
     title: "Guia: Busca Ativa",
     description: "Mercado oculto, mapeamento, cold approach, scripts e funil.",
     category: "guia",
-    order: 3,
+    order: 4,
     fileName: "guia-busca-ativa.md",
     readTimeMin: 22,
   },
@@ -84,18 +66,9 @@ export const contentIndex: ContentItem[] = [
     title: "Guia: Entrevistas",
     description: "RH, tecnica, metodos do Cracking the Coding Interview, system design.",
     category: "guia",
-    order: 4,
+    order: 5,
     fileName: "guia-entrevistas.md",
     readTimeMin: 30,
-  },
-  {
-    slug: "guia-gestao-processo",
-    title: "Guia: Gestao do Processo",
-    description: "Setup Trello/Notion, log diario, organizacao e rotinas.",
-    category: "guia",
-    order: 5,
-    fileName: "guia-gestao-processo.md",
-    readTimeMin: 22,
   },
   {
     slug: "mapa-estudo",
@@ -109,7 +82,7 @@ export const contentIndex: ContentItem[] = [
 ];
 
 export const categoryLabels: Record<ContentCategory, string> = {
-  minicurso: "Minicurso",
+  inicio: "Comece aqui",
   guia: "Guias",
   mapa: "Mapa de Estudo",
 };
@@ -141,7 +114,7 @@ export function getAdjacentContent(slug: string): {
 } {
   const sorted = [...contentIndex].sort((a, b) => {
     const catOrder: Record<ContentCategory, number> = {
-      minicurso: 0,
+      inicio: 0,
       guia: 1,
       mapa: 2,
     };

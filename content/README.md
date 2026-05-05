@@ -1,90 +1,85 @@
-# Minicurso de Recolocação Tech
+# Visão Geral — Material do Aluno
 
-Plano de ensino completo e roteiro do instrutor para um minicurso prático gratuito de recolocação no mercado de tecnologia. Três sessões: duas teóricas + práticas (1h cada) e uma sessão hands-on (90–120 min).
+Bem-vindo. Este é o material completo do **minicurso de recolocação tech** — um pacote de guias densos e acionáveis para profissionais de tecnologia no Brasil que estão em recolocação ou transição de carreira.
 
-## Visão geral
+> Este material é **companion** das sessões ao vivo do minicurso. Você pode (e deve) estudar fora da aula. Não tem motivacional, não tem clichê — só o que move o ponteiro.
 
-- **Público:** profissionais de tecnologia em busca de recolocação (júnior, pleno, sênior).
-- **Formato:** 2 sessões de 60 min + 1 encontro prático de 90–120 min.
-- **Objetivo:** entregar ferramentas acionáveis para CV, LinkedIn, busca de vagas, leitura de mercado e preparação para entrevistas.
-- **Metodologia:** ação > teoria. Cada bloco termina com uma tarefa concreta. O Dia 3 é simulado ao vivo com avaliação estruturada.
+## O que tem aqui
 
-## Estrutura dos 3 dias
+São **6 conteúdos** que cobrem os pontos críticos do processo de recolocação:
 
-| Dia | Quando | Tema | Tópicos | Duração |
-|-----|--------|------|---------|---------|
-| **Dia 1** | Segunda 15h–16h | Quem você é no papel | Análise de Currículo · Análise de LinkedIn · Mapa de Estudo Geral | 60 min |
-| **Dia 2** | Terça 15h–16h | Como você ataca o mercado | Análise de Mercado · Busca Ativa e Passiva · Análise de Vagas · Preparação para Entrevistas (RH + Técnica) | 60 min |
-| **Dia 3** | Data a definir | Hands-on: revisão e simulado | Revisão ao vivo de CVs/LinkedIn · Simulado de entrevistas com avaliação estruturada | 90–120 min |
+| # | Material | O que entrega |
+|---|---|---|
+| 1 | **Guia: Currículo** | Como passar pelo ATS (Gupy, Kenoby, Greenhouse), formato dos bullets que vendem, exemplo completo de CV sênior. |
+| 2 | **Guia: LinkedIn** | Como o algoritmo do LinkedIn funciona, SSI, headline com fórmula, "Sobre" estruturado, hack do #OpenToWork. |
+| 3 | **Guia: Busca Ativa** | Mercado oculto de vagas, mapeamento de empresas, scripts de cold approach prontos, gestão de funil. |
+| 4 | **Guia: Entrevistas** | RH (5 perguntas-padrão), técnica (4 formatos), métodos do *Cracking the Coding Interview*, system design. |
+| 5 | **Guia: Gestão do Processo** | Setup passo a passo do Trello/Notion, log diário operacional, organização de pastas, rotinas. |
+| 6 | **Mapa de Estudo Júnior/Pleno** | Trilha de fundamentos: Lógica, POO, Design Patterns, Banco de Dados, Clean Code, Git, GitHub. |
 
-## Racional de divisão de tempo
+## Trilha sugerida (por onde começar)
 
-7 tópicos em 120 min de teoria não admite divisão igual (~17 min cada). A divisão real respeita peso pedagógico:
+A ordem que faz mais sentido para a maioria dos alunos:
 
-- **CV e LinkedIn** (Dia 1): 20 min cada — são os artefatos que o aluno mais obsessiona, e fundamentais para os outros tópicos.
-- **Mapa de estudo** (Dia 1): 12 min — é framework, não inventário.
-- **Mercado, busca, vagas** (Dia 2): 10–12 min cada — três lentes que se complementam.
-- **Entrevistas RH + Técnica** (Dia 2): 20 min — é o tópico mais denso, e o Dia 3 depende de estar bem assentado.
+```
+1. Visão Geral (esta página)
+   ↓
+2. Guia: Currículo            ← reescreva o seu antes de candidatar
+   ↓
+3. Guia: LinkedIn             ← otimize sua presença
+   ↓
+4. Guia: Gestão do Processo   ← monte seu sistema de busca
+   ↓
+5. Guia: Busca Ativa          ← comece a executar
+   ↓
+6. Guia: Entrevistas          ← prepare-se para o que vier
+   ↓
+7. Mapa de Estudo             ← consolide os fundamentos em paralelo
+```
 
-A narrativa pedagógica é arco: Dia 1 calibra o ativo (você no papel), Dia 2 dispara o ataque (mercado e entrevistas), Dia 3 pratica sob fogo cruzado.
+A trilha é uma **sugestão** — você pode pular direto para o que mais te trava agora. Se o problema é que você não recebe respostas: comece pelo Currículo. Se recebe respostas mas trava em entrevista: vá direto ao Guia: Entrevistas.
 
-## Como usar este repositório
+## Como usar este material
 
-Como instrutor:
+### Fase 1: Diagnóstico (2-3 dias)
 
-1. Abra `dia-1-roteiro.md` no segundo monitor durante a sessão de segunda.
-2. Abra `dia-2-roteiro.md` no segundo monitor durante a sessão de terça.
-3. 24h antes do Dia 3, siga o **Pré-trabalho do instrutor** em `dia-3-pratico.md`.
-4. Durante o Dia 3, use `dia-3-pratico.md` como guia de facilitação.
+Leia a Visão Geral + Guia: Currículo + Guia: LinkedIn. Identifique **3-5 problemas concretos** no seu CV e perfil. Anote.
 
-Cada arquivo contém:
+### Fase 2: Correção (1 semana)
 
-- Objetivos da sessão.
-- Materiais necessários (slides mínimos).
-- Roteiro minuto a minuto com o que falar e quando.
-- Hacks de mercado destacados em cada bloco.
+Reescreva o currículo aplicando o checklist do Guia. Otimize o LinkedIn. Configure seu funil no Trello/Notion (Guia: Gestão do Processo).
 
-## Tarefas de casa (consolidadas)
+### Fase 3: Execução (contínuo)
 
-### Dia 1 → Dia 2
+Aplique o que aprendeu nos Guias de Busca Ativa e Entrevistas. Use o funil para acompanhar conversões. Estude os fundamentos do Mapa em paralelo (1h/dia).
 
-1. Salvar 5 vagas no LinkedIn que se candidataria HOJE (não candidatar).
-2. Listar as 5 tecnologias mais frequentes nessas vagas.
-3. Trazer 1 dúvida específica para o Dia 3.
+### Fase 4: Iteração (semanal)
 
-### Dia 2 → Dia 3 (OBRIGATÓRIA)
+Toda sexta, calcule métricas pessoais (ver Guia: Gestão do Processo). Ajuste o que não está convertendo. Releia o guia relevante quando travar.
 
-1. Currículo revisado em PDF (versão final).
-2. Print do LinkedIn (headline + sobre + 2 experiências).
-3. 1 vaga-alvo escolhida (link).
-4. 3 histórias STAR escritas.
+## Tarefas de casa práticas
 
-Quem entrega tudo entra primeiro nas dinâmicas do Dia 3.
+Enquanto você estuda, vá fazendo:
 
-## Pré-trabalho do instrutor para o Dia 3
+- **Currículo revisado** em PDF — versão final aplicando a fórmula `Ação + Ferramenta + Resultado`.
+- **LinkedIn otimizado** — headline com fórmula, "Sobre" em 6 partes, URL personalizada, top 3 skills da sua especialidade.
+- **5 vagas-alvo salvas** no LinkedIn que você se candidataria hoje.
+- **Funil estruturado** no Notion ou Trello com pelo menos 10 empresas mapeadas.
+- **3 histórias STAR escritas** (entrega complexa, conflito, falha/aprendizado).
 
-- Receber CVs / prints / STAR por canal definido (e-mail / Drive) até 24h antes.
-- Numerar e anonimizar CVs para revisão em tela.
-- Marcar 3–5 pontos didáticos por CV.
-- Criar Ficha do Avaliador (Google Form com escalas 1–5 + 1 ponto forte + 1 sugestão).
-- Recrutar 4–5 voluntários para simulado (2–3 RH + 2 técnica), confirmando nível dos técnicos.
-- Preparar canal de comunidade pós-curso (WhatsApp / Discord).
-- Preparar lista de 20 perguntas RH + 10 problemas técnicos por nível para envio pós-aula.
+## Materiais e ferramentas citados
 
-Detalhes completos em `dia-3-pratico.md`.
-
-## Materiais sugeridos / links
-
-### Ferramentas para o aluno
+### Para o aluno
 
 - **Mapa de estudo:** roadmap.sh
-- **Treino de live coding:** LeetCode, HackerRank, Codility
+- **Treino de live coding:** LeetCode, HackerRank, Codility, Beecrowd
 - **Pesquisa de salário Brasil:** Glassdoor, Vagas.com
 - **Pesquisa de salário internacional:** Levels.fyi
 - **Job boards tech BR:** Trampos.co, Programathor, Remotar, Gupy
 - **Job boards tech remoto LATAM:** BairesDev, Toptal, We Work Remotely
+- **Mock interview gratuito:** Pramp.com
 
-### Tendências de mercado
+### Tendências de mercado para acompanhar
 
 - Stack Overflow Developer Survey
 - JetBrains Survey
@@ -95,13 +90,16 @@ Detalhes completos em `dia-3-pratico.md`.
 
 - *Cracking the Coding Interview* — Gayle Laakmann McDowell (entrevistas técnicas).
 - *Designing Data-Intensive Applications* — Martin Kleppmann (system design para sêniores).
+- *Clean Code* — Robert C. Martin (qualidade de código).
 
-## Estrutura de arquivos
+## Filosofia do material
 
-```
-recolocacao-tech/
-├── README.md           # Este arquivo
-├── dia-1-roteiro.md    # Roteiro minuto a minuto Dia 1
-├── dia-2-roteiro.md    # Roteiro minuto a minuto Dia 2
-└── dia-3-pratico.md    # Guia de facilitação Dia 3
-```
+**Ação > Teoria.** Cada bloco entrega algo que você FAZ, não algo que você anota.
+
+**Realidade brasileira.** O material foi escrito pensando no mercado tech BR (Gupy, salários em real, modalidades híbrida/remoto/presencial), com extensões específicas para vagas remotas internacionais em USD/EUR.
+
+**Sem clichê.** Você não vai encontrar "vista a camisa", "saia da zona de conforto" ou "acredite em si mesmo". O material é técnico, direto e baseado em dados reais do mercado.
+
+---
+
+Pronto para começar? **Vá para o Guia: Currículo →**
