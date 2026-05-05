@@ -6,7 +6,7 @@ Bem-vindo. Este é um pacote completo e auto-contido de guias para profissionais
 
 ## O que tem aqui
 
-São **8 conteúdos** que cobrem os pontos críticos do processo de recolocação:
+São **9 conteúdos** que cobrem os pontos críticos do processo de recolocação:
 
 | # | Material | O que entrega |
 |---|---|---|
@@ -17,7 +17,8 @@ São **8 conteúdos** que cobrem os pontos críticos do processo de recolocaçã
 | 5 | **Guia: Entrevistas** | RH (5 perguntas-padrão), técnica (4 formatos), métodos do *Cracking the Coding Interview*, system design. |
 | 6 | **Guia: Gestão do Processo** | Setup passo a passo do Trello/Notion, log diário operacional, organização de pastas, rotinas. |
 | 7 | **Guia: Freelance e Plataformas** | Plataformas BR e internacionais, precificação, MEI/ME/PJ, captação direta, riscos e armadilhas. |
-| 8 | **Mapa de Estudo Júnior/Pleno** | Trilha de fundamentos: Lógica, POO, Design Patterns, Banco de Dados, Clean Code, Git, GitHub. |
+| 8 | **Guia: IA no Processo de Recolocação** | Ferramentas de IA + prompts prontos para CV, LinkedIn, busca, entrevista, estudo e freelance. |
+| 9 | **Mapa de Estudo Júnior/Pleno** | Trilha de fundamentos: Lógica, POO, Design Patterns, Banco de Dados, Clean Code, Git, GitHub. |
 
 ## Trilha sugerida (por onde começar)
 
@@ -39,6 +40,9 @@ A ordem que faz mais sentido para a maioria dos alunos:
 7. Guia: Entrevistas           ← prepare-se para o que vier
    ↓
 8. Mapa de Estudo              ← consolide os fundamentos em paralelo
+
+           ⚡ Em paralelo a TODAS as etapas:
+           Guia: IA no Processo (prompts prontos para acelerar 5–10x)
 ```
 
 A trilha é uma **sugestão** — você pode pular direto para o que mais te trava agora. Se o problema é que você não recebe respostas: comece pelo Currículo. Se recebe respostas mas trava em entrevista: vá direto ao Guia: Entrevistas.

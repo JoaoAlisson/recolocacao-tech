@@ -93,6 +93,16 @@ export const contentIndex: ContentItem[] = [
     readTimeMin: 32,
   },
   {
+    slug: "guia-ia-prompts",
+    title: "Guia: IA no Processo de Recolocação",
+    description:
+      "Ferramentas de IA + prompts prontos para CV, LinkedIn, busca, entrevista, estudo e freelance.",
+    category: "guia",
+    order: 8,
+    fileName: "guia-ia-prompts.md",
+    readTimeMin: 25,
+  },
+  {
     slug: "mapa-estudo",
     title: "Mapa de Estudo Júnior/Pleno",
     description: "Lógica, POO, Design Patterns, BD, Clean Code, Git e GitHub.",
