@@ -71,6 +71,15 @@ export const contentIndex: ContentItem[] = [
     readTimeMin: 30,
   },
   {
+    slug: "guia-freelance",
+    title: "Guia: Freelance e Plataformas",
+    description: "Plataformas BR e internacionais, precificacao, MEI/ME, captacao direta e armadilhas.",
+    category: "guia",
+    order: 6,
+    fileName: "guia-freelance.md",
+    readTimeMin: 32,
+  },
+  {
     slug: "mapa-estudo",
     title: "Mapa de Estudo Junior/Pleno",
     description: "Logica, POO, Design Patterns, BD, Clean Code, Git e GitHub.",

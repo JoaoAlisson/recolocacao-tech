@@ -6,7 +6,7 @@ Bem-vindo. Este é o material completo do **minicurso de recolocação tech** �
 
 ## O que tem aqui
 
-São **6 conteúdos** que cobrem os pontos críticos do processo de recolocação:
+São **7 conteúdos** que cobrem os pontos críticos do processo de recolocação:
 
 | # | Material | O que entrega |
 |---|---|---|
@@ -15,7 +15,8 @@ São **6 conteúdos** que cobrem os pontos críticos do processo de recolocaçã
 | 3 | **Guia: Busca Ativa** | Mercado oculto de vagas, mapeamento de empresas, scripts de cold approach prontos, gestão de funil. |
 | 4 | **Guia: Entrevistas** | RH (5 perguntas-padrão), técnica (4 formatos), métodos do *Cracking the Coding Interview*, system design. |
 | 5 | **Guia: Gestão do Processo** | Setup passo a passo do Trello/Notion, log diário operacional, organização de pastas, rotinas. |
-| 6 | **Mapa de Estudo Júnior/Pleno** | Trilha de fundamentos: Lógica, POO, Design Patterns, Banco de Dados, Clean Code, Git, GitHub. |
+| 6 | **Guia: Freelance e Plataformas** | Plataformas BR e internacionais, precificação, MEI/ME/PJ, captação direta, riscos e armadilhas. |
+| 7 | **Mapa de Estudo Júnior/Pleno** | Trilha de fundamentos: Lógica, POO, Design Patterns, Banco de Dados, Clean Code, Git, GitHub. |
 
 ## Trilha sugerida (por onde começar)
 
@@ -38,6 +39,17 @@ A ordem que faz mais sentido para a maioria dos alunos:
 ```
 
 A trilha é uma **sugestão** — você pode pular direto para o que mais te trava agora. Se o problema é que você não recebe respostas: comece pelo Currículo. Se recebe respostas mas trava em entrevista: vá direto ao Guia: Entrevistas.
+
+### Caminho alternativo: Freelance
+
+O **Guia: Freelance e Plataformas** é uma trilha **paralela** à busca de CLT. Use quando:
+
+- Está desempregado e precisa de renda enquanto procura CLT.
+- Quer testar o mercado autônomo antes de pedir demissão.
+- Mira renda extra (5-15h/sem) sem largar o emprego atual.
+- Quer migrar definitivamente para freelancer full-time.
+
+Vai bem em combinação com **Guia: Gestão do Processo** (mesmas ferramentas servem para gerenciar clientes) e **Guia: Busca Ativa** (cold approach é o mesmo método para captar clientes).
 
 ## Como usar este material
 
