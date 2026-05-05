@@ -5,12 +5,12 @@ import { Sidebar } from "@/components/Sidebar";
 
 export const metadata: Metadata = {
   title: {
-    default: "Minicurso de Recolocacao Tech",
-    template: "%s | Recolocacao Tech",
+    default: "Recolocação Tech",
+    template: "%s | Recolocação Tech",
   },
   description:
-    "Material completo do minicurso de recolocacao profissional para devs no Brasil: curriculo, LinkedIn, busca ativa, entrevistas RH e tecnica.",
-  authors: [{ name: "Joao Alisson" }],
+    "Material completo para profissionais de tecnologia no Brasil em recolocação ou transição de carreira: mercado, currículo, LinkedIn, busca ativa, entrevistas RH e técnica.",
+  authors: [{ name: "João Alisson" }],
   robots: { index: true, follow: true },
 };
 

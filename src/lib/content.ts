@@ -18,7 +18,7 @@ export type ContentItem = {
 export const contentIndex: ContentItem[] = [
   {
     slug: "visao-geral",
-    title: "Visao Geral",
+    title: "Visão Geral",
     description: "O que tem no material, trilha sugerida e como usar.",
     category: "inicio",
     order: 0,
@@ -28,7 +28,8 @@ export const contentIndex: ContentItem[] = [
   {
     slug: "guia-mercado",
     title: "Guia: Mercado de Trabalho 2026",
-    description: "Salarios por senioridade, tecnologias em alta, geografia, mercado internacional, Reforma Tributaria e Stock Options.",
+    description:
+      "Salários por senioridade, tecnologias em alta, geografia, mercado internacional, Reforma Tributária e Stock Options.",
     category: "guia",
     order: 1,
     fileName: "guia-mercado.md",
@@ -36,8 +37,9 @@ export const contentIndex: ContentItem[] = [
   },
   {
     slug: "guia-curriculo",
-    title: "Guia: Curriculo",
-    description: "ATS, regra dos 6 segundos, formula de bullets e exemplo completo.",
+    title: "Guia: Currículo",
+    description:
+      "ATS, regra dos 6 segundos, fórmula de bullets e exemplo completo.",
     category: "guia",
     order: 2,
     fileName: "guia-curriculo.md",
@@ -46,7 +48,7 @@ export const contentIndex: ContentItem[] = [
   {
     slug: "guia-linkedin",
     title: "Guia: LinkedIn",
-    description: "Algoritmo, SSI, headline, sobre, experiencias e #OpenToWork.",
+    description: "Algoritmo, SSI, headline, sobre, experiências e #OpenToWork.",
     category: "guia",
     order: 3,
     fileName: "guia-linkedin.md",
@@ -54,8 +56,8 @@ export const contentIndex: ContentItem[] = [
   },
   {
     slug: "guia-gestao-processo",
-    title: "Guia: Gestao do Processo",
-    description: "Setup Trello/Notion, log diario, organizacao e rotinas.",
+    title: "Guia: Gestão do Processo",
+    description: "Setup Trello/Notion, log diário, organização e rotinas.",
     category: "guia",
     order: 4,
     fileName: "guia-gestao-processo.md",
@@ -73,7 +75,8 @@ export const contentIndex: ContentItem[] = [
   {
     slug: "guia-entrevistas",
     title: "Guia: Entrevistas",
-    description: "RH, tecnica, metodos do Cracking the Coding Interview, system design.",
+    description:
+      "RH, técnica, métodos do Cracking the Coding Interview, system design.",
     category: "guia",
     order: 6,
     fileName: "guia-entrevistas.md",
@@ -82,7 +85,8 @@ export const contentIndex: ContentItem[] = [
   {
     slug: "guia-freelance",
     title: "Guia: Freelance e Plataformas",
-    description: "Plataformas BR e internacionais, precificacao, MEI/ME, captacao direta e armadilhas.",
+    description:
+      "Plataformas BR e internacionais, precificação, MEI/ME, captação direta e armadilhas.",
     category: "guia",
     order: 7,
     fileName: "guia-freelance.md",
@@ -90,8 +94,8 @@ export const contentIndex: ContentItem[] = [
   },
   {
     slug: "mapa-estudo",
-    title: "Mapa de Estudo Junior/Pleno",
-    description: "Logica, POO, Design Patterns, BD, Clean Code, Git e GitHub.",
+    title: "Mapa de Estudo Júnior/Pleno",
+    description: "Lógica, POO, Design Patterns, BD, Clean Code, Git e GitHub.",
     category: "mapa",
     order: 1,
     fileName: "mapa-estudo-junior-pleno.md",

@@ -10,15 +10,12 @@ const categories: ContentCategory[] = ["inicio", "guia", "mapa"];
 export function Sidebar() {
   return (
     <aside className="w-72 hidden lg:flex flex-col bg-zinc-950 border-r border-zinc-800 p-6 sticky top-0 h-screen overflow-y-auto">
-      <Link
-        href="/"
-        className="block mb-8 group"
-      >
+      <Link href="/" className="block mb-8 group">
         <span className="block text-xs uppercase font-semibold tracking-widest text-accent mb-1">
-          Minicurso
+          Material gratuito
         </span>
         <span className="block text-lg font-semibold text-white group-hover:text-accent transition-colors">
-          Recolocacao Tech
+          Recolocação Tech
         </span>
       </Link>
 
@@ -48,7 +45,7 @@ export function Sidebar() {
 
       <div className="mt-auto pt-6 border-t border-zinc-800">
         <p className="text-xs text-zinc-600">
-          Material complementar ao minicurso. Adapte ao seu contexto.
+          Adapte ao seu contexto e revise a cada candidatura.
         </p>
       </div>
     </aside>
